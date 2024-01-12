@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **python**
 
+- 🔍 Looking for a challenging [position as a junior data analyst.](position as a junior data analyst.)
+
 - 📫 How to reach me **domingues.elisabete@gmail.com**
+
+- ⚡ Recent graduate of **Boolean UK Data Analytics course.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
