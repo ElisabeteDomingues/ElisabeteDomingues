@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
-
 - 📫 How to reach me **domingues.elisabete@gmail.com**
 
 - 📄 Know about my experiences [in progress](in progress)
