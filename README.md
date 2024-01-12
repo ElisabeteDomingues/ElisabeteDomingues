@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elisabete</h1>
 <h3 align="center">A new data analyst from Portugal</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- ⚡ Recent graduate of **Boolean UK Data Analytics course.**
 
-- 🌱 I’m currently learning **python**
+- 🔭 I’m currently working on **personal projects on python**
 
 - 🔍 Looking for a challenging [position as a junior data analyst.](position as a junior data analyst.)
 
 - 📫 How to reach me **domingues.elisabete@gmail.com**
-
-- ⚡ Recent graduate of **Boolean UK Data Analytics course.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
