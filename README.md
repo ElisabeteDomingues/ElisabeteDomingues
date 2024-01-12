@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elisabete</h1>
 <h3 align="center">A new data analyst from Portugal</h3>
 
-- 🔭 I’m currently working on **in progress**
+- 🔭 I’m currently working on **personal projects**
 
-- 👯 I’m looking to collaborate on **in progress**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [in progress](in progress)
 
