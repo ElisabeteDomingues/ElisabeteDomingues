@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects on python**
 
-- 🔍 Looking for a challenging [position as a junior data analyst.](position as a junior data analyst.)
+- 🔍 Looking for a challenging position . **as a junior data analyst**
 
 - 📫 How to reach me **domingues.elisabete@gmail.com**
 
